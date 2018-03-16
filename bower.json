@@ -1,0 +1,21 @@
+{
+  "name": "windward.webappframework",
+  "version": "0.0.1",
+  "authors": [
+    "Francisco Diaz <FDiaz@wws5.com>"
+  ],
+  "description": "Windward web application framework UI components",
+  "main": "",
+  "keywords": [
+    "windward", "web", "application", "framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fdiazwws5/windward.webappframework",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
